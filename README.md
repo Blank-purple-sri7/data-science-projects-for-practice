@@ -1,5 +1,4 @@
-# CODESOFT_Internship_Data-Science
-#TASK 1
+
 
 # TITANIC SURVIVAL PREDICTION
 
